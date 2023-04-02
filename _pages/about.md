@@ -13,7 +13,7 @@ redirect_from:
 Hi! I am Shucheng Kang, a fourth-year undergraduate from [Department of Electronic Engineering](https://www.ee.tsinghua.edu.cn/en/), Tsinghua University, China. My current research interest lies in the intersection between robotics and optimization theory. I am excited about building up safe and adaptive intelligent systems with rigorous theoretical guarantees.
 
 
-Please check my CV [here](https://ys-2020.github.io/files/CV_ShuchengKang.pdf)!
+Please check my CV [here](https://ksc999.github.io/files/CV_ShuchengKang.pdf)!
 
 &nbsp;
 &nbsp;
