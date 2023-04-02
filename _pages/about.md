@@ -30,7 +30,7 @@ Education
 
 Research Experiences
 ======
-<img src="../images/Harvard_LOGO.png" alt="Harvard" style="zoom:9%; float: left" />&emsp;[Harvard](https://www.harvard.edu/)&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;11/2022 - present<br>&emsp;Research Intern at Computational Robotics Group, advised by Prof. [Heng Yang](https://hankyang.seas.harvard.edu/)
+<img src="../images/Harvard_LOGO.png" alt="Harvard" style="zoom:9%; float: left" />&emsp;[Harvard](https://www.harvard.edu/)&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;11/2022 - present<br>&emsp;Research Intern at Computational Robotics Group, advised by Prof. [Heng Yang](https://hankyang.seas.harvard.edu/)
 &nbsp;
 &nbsp;
 
@@ -38,7 +38,7 @@ Research Experiences
 &nbsp;
 &nbsp;
 
-<img src="../images/Tsinghua_LOGO.png" alt="Tsinghua" style="zoom:7%; float: left" />&emsp;[Tsinghua University](https://www.tsinghua.edu.cn/en/)&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;04/2021 - 2022/03 <br>&emsp;Undergraduate at [ISR Lab](http://people.iiis.tsinghua.edu.cn/~jychen/), advised by Prof. [Jianyu Chen](https://www.jianyuchen.net/)
+<img src="../images/Tsinghua_LOGO.png" alt="Tsinghua" style="zoom:7%; float: left" />&emsp;[Tsinghua University](https://www.tsinghua.edu.cn/en/)&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;04/2021 - 2022/03 <br>&emsp;Undergraduate at [ISR Lab](http://people.iiis.tsinghua.edu.cn/~jychen/), advised by Prof. [Jianyu Chen](https://www.jianyuchen.net/)
 
 &nbsp;
 &nbsp;
