@@ -22,7 +22,7 @@ Education
 ======
 
 <img src="../images/Tsinghua_LOGO.png" alt="tsinghua" style="zoom:7%; float: left" />&emsp;[Tsinghua University](https://www.tsinghua.edu.cn/en/)&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;08/2019 - 07/2023 
-<br> &emsp;Overall GPA: 3.95/4.0 
+<br> &emsp;Overall GPA: 3.95/4.00 
 <br>&emsp;B.Eng. in Electronic Information Science and Technology
 
 &nbsp;
@@ -30,7 +30,7 @@ Education
 
 Research Experiences
 ======
-<img src="../images/Harvard_LOGO.png" alt="Harvard" style="zoom:9%; float: left" />&emsp;[Harvard](https://www.harvard.edu/)&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;11/2022 - present<br>&emsp;Research Intern at Computational Robotics Group, advised by Prof. [Heng Yang](https://hankyang.seas.harvard.edu/)
+<img src="../images/Harvard_LOGO.png" alt="Harvard" style="zoom:9%; float: left" />&emsp;[Harvard](https://www.harvard.edu/)&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;11/2022 - present<br>&emsp;Research Intern at Computational Robotics Group, advised by Prof. [Heng Yang](https://hankyang.seas.harvard.edu/)
 &nbsp;
 &nbsp;
 
